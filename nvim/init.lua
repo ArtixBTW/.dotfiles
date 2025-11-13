@@ -53,4 +53,4 @@ vim.g.maplocalleader = [[\]]
 
 -- Colors
 vim.opt.termguicolors = true
-vim.cmd("colorscheme slate")
+vim.cmd("colorscheme koehler")
